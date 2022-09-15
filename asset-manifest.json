@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/static/js/app.160a16de.chunk.js",
-    "app.js.map": "/static/js/app.160a16de.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.27401809.js",
-    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.e8158a5f.chunk.js": "/static/js/2.e8158a5f.chunk.js",
-    "static/js/2.e8158a5f.chunk.js.map": "/static/js/2.e8158a5f.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.e8158a5f.chunk.js.LICENSE.txt": "/static/js/2.e8158a5f.chunk.js.LICENSE.txt"
+    "app.js": "/wendim/static/js/app.160a16de.chunk.js",
+    "app.js.map": "/wendim/static/js/app.160a16de.chunk.js.map",
+    "runtime~app.js": "/wendim/static/js/runtime~app.e835a811.js",
+    "runtime~app.js.map": "/wendim/static/js/runtime~app.e835a811.js.map",
+    "static/js/2.e8158a5f.chunk.js": "/wendim/static/js/2.e8158a5f.chunk.js",
+    "static/js/2.e8158a5f.chunk.js.map": "/wendim/static/js/2.e8158a5f.chunk.js.map",
+    "favicon-16.png": "/wendim/favicon-16.png",
+    "favicon-32.png": "/wendim/favicon-32.png",
+    "favicon.ico": "/wendim/favicon.ico",
+    "index.html": "/wendim/index.html",
+    "manifest.json": "/wendim/manifest.json",
+    "serve.json": "/wendim/serve.json",
+    "static/js/2.e8158a5f.chunk.js.LICENSE.txt": "/wendim/static/js/2.e8158a5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.27401809.js",
+    "static/js/runtime~app.e835a811.js",
     "static/js/2.e8158a5f.chunk.js",
     "static/js/app.160a16de.chunk.js"
   ]
